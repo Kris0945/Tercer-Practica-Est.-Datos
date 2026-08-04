@@ -1,0 +1,1 @@
+El montículo mínimo ayuda a que Dijkstra encuentre más rapido el nodo con la distancia más corta. Mantiene los nodos ordenados para no tener que revisar todos cada vez, lo que hace que el algoritmo sea más eficiente y pueda funcionar con grafos grandes.
